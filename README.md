@@ -1,6 +1,6 @@
 # LiveQA
 
-Data for The Nineteenth China National Conference on Computational Linguistics, CCL 2020 paper: LiveQA: A Question Answering Dataset over Sports Live. Qianying Liu, Sicong Jiang, Yizhong Wang, Sujian Li.
+Data for The Nineteenth China National Conference on Computational Linguistics, CCL 2020 best paper: LiveQA: A Question Answering Dataset over Sports Live. Qianying Liu, Sicong Jiang, Yizhong Wang, Sujian Li.
 
 
 We here present the raw dataset presented in the paper.<br>
